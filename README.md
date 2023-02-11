@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960))]
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960)
 <h1 align="center">Satish Mishra</h1>
 <h3 align="center">Passionately in love with python</h3>
 
