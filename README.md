@@ -1,4 +1,4 @@
-
+[![MasterHead]([https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960))]
 <h1 align="center">Satish Mishra</h1>
 <h3 align="center">Passionately in love with python</h3>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **dhriti_pandey@outlook.com**
+- 📫 How to reach me **7506satish@gmail.com**
 
 - ⚡ Fun fact **I enjoy breathing**
 
